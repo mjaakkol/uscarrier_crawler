@@ -1,4 +1,4 @@
-**uscarrier_crawler**
+# uscarrier_crawler
 
 US Mobile operator phone price scraper based on Scrapy+Selenium 
 
